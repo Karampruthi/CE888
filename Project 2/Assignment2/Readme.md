@@ -1,10 +1,12 @@
-The is code is inspired from [1]
+The code is inspired from [1]
 
 ## In order to run the code please download the following files
 * main.py
 * BERT.py
 * preprocessing.py
-* requirements.txt contains the python packages with thier respective versions which are required to run the model
+* requirements.txt (contains the python packages with thier respective versions which are required to run the model)
+
+## After running main.py. There will be a pop-out window
 
 
 
