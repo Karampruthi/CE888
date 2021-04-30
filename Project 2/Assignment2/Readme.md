@@ -6,10 +6,12 @@ The code is inspired from [1]
 * preprocessing.py
 * requirements.txt (contains the python packages with thier respective versions which are required to run the model)
 
-## After running main.py A pop-out window will appear which require a task to select out of the given 3 option: 
+## After running main.py A pop-up window will appear which require a task to select out of the given 3 option: 
 1. HATE SPEECH DETECTION
 2. SENTIMENT ANALYSIS
 3. OFFENSIVE LANGUAGE DETECTION
+
+## Python Notebooks are just for visualization.
 
 
 
