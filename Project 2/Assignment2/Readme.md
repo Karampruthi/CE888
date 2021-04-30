@@ -1,12 +1,15 @@
 The code is inspired from [1]
 
-## In order to run the code please download the following files
+## In order to run the code please download the following files:
 * main.py
 * BERT.py
 * preprocessing.py
 * requirements.txt (contains the python packages with thier respective versions which are required to run the model)
 
-## After running main.py. There will be a pop-out window
+## After running main.py A pop-out window will appear which require a task to select out of the given 3 option: 
+1. HATE SPEECH DETECTION
+2. SENTIMENT ANALYSIS
+3. OFFENSIVE LANGUAGE DETECTION
 
 
 
